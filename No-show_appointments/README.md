@@ -1,4 +1,4 @@
-# Project: No-show appointments Analysis¶
+# Project: No-show appointments Analysis
 
 We are going to analyze the dataset "No-show appointments". 
 It is a dataset of medical appointments in Brazil, where the the question is if a patient show up for their appointments or not. 
